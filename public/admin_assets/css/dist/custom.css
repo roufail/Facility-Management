@@ -1,0 +1,257 @@
+.font-s {
+	    font-size: 1.3em !important;
+}
+
+
+.pt-5 {
+	    padding-top: 5px;
+}
+
+
+.space-25 {
+    height: 25px;
+}
+
+.input-group-addon {
+	    color: #0343be;
+}
+
+.style{
+    color:  #839ac7;
+    }
+
+    .pt-20 {
+    padding-top: 20px;
+    }
+
+
+    .style-w {
+        color: #fff;
+    }
+
+
+card-h{
+    min-height: 135px !important;
+}
+
+
+.card-wizard  .card-content {
+    padding: 0px 15px 10px 15px !important;
+}
+
+
+.card-wizard .nav-pills {
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.card-wizard .card-content > ul:nth-child(1) > li:nth-child(1) > a {
+    border-top-left-radius: 6px;
+}
+
+
+.card-wizard .card-content > ul:nth-child(1) > li:last-child > a {
+    border-top-right-radius: 6px;
+}
+
+
+.pr-5 {
+    padding-right: 5px;
+}
+
+.font-small {
+    font-size: .822em !important;
+
+}
+
+.color-small {
+    color: #1a4aa5 !important;
+}
+
+
+.style-t {
+    color: #1a4aa5 !important;
+}
+
+
+.color-style {
+    color: #484541;
+}
+
+
+/* .table-shopping > tbody > tr > td {
+    font-size: 16px;
+    padding: 5px 5px;
+}
+
+.table-shopping .td-product strong {
+    font-size: 1em;
+}
+
+.table-shopping .td-product {
+    padding-left: 0px;
+} */
+
+.sidebar .sidebar-wrapper, .off-canvas-sidebar .sidebar-wrapper {
+    overflow: hidden;
+}
+
+
+.full-page.login-page {
+    /* background-image: url(http://localhost/Facility-Management/public/admin_assets/img/background/background.jpg); */
+    background-position: center;
+    background-size: cover;
+}
+
+
+input#attach_file {
+    display: none;
+}
+
+
+.none1 {
+    display: none;
+}
+.none2 {
+    display: none;
+}
+.none3 {
+    display: none;
+}
+.none4 {
+    display: none;
+}
+.none5 {
+    display: none;
+}
+.none6 {
+    display: none;
+}
+
+
+input.has_error{
+    border:1px solid darkred !important;
+}
+
+
+#event .card-content {
+    padding: 0px;
+}
+
+
+#event .nav-pills > li:last-child > a {
+    border-radius: 0px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+
+}
+
+
+
+#event .badge-warning {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+
+.g-style {
+    color: #ccc;
+}
+
+.e-style {
+    color: green;
+}
+
+.r-style {
+    color: red;
+}
+
+
+
+
+
+
+#details .card-content {
+    padding: 0px;
+}
+
+
+#details .nav-pills > li:last-child > a {
+    border-radius: 0px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+
+}
+
+
+
+#details .badge-warning {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+    ul.nav.nav-mobile-menu {
+        display: none;
+    }
+
+    .pr-15 {
+        padding-right: 15px;
+    }
+    .cal {
+        display: none;
+    }
+  }
+
+
+
+@media only screen and (max-width: 1415px) and (min-width: 778px) {
+    .responsave-ul{
+        height: 60px;
+    }
+
+}
+
+@media only screen and (max-width: 778px) {
+    .responsave-ul{
+        height: 50px;
+        font-size: 9px;
+        padding-left: 5px !important;
+    }
+
+
+}
+
+
+.pr-4 {
+    padding-left: 4%;
+}
+
+
+@media only screen and (max-width:1356px) and (min-width: 992px){
+
+    .hideicon {
+        display:none;
+    }
+}
+
+@media only screen and (max-width:1243px) and (min-width: 1050px){
+
+    .smallresponsive {
+        font-size: .722em !important;
+    }
+}
+
+@media only screen and (max-width:1150px) and (min-width: 1025px){
+
+    .smallresponsive {
+        font-size: 0.6em !important;
+    }
+}
+
